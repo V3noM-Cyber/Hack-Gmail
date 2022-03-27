@@ -58,7 +58,7 @@ def artwork():
                                            .omMMMmyo/.``                                            
                                               .+ymNMMMNNmdhyhy+osys.                                
                                                   `-:+ossyyysso/:.                                  
-                                                                           @V3N0M V 1.0
+                                                                           @V3nom V 1.0
 
 ''')
 artwork()
